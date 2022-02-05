@@ -26,8 +26,45 @@ Grading
 
 Grading for this course is based on the following assignments.
 
-| ASSIGNMENTS | DISTRIBUTION |
-| --- | --- |
-| Weekly Memos | 1/3 |
-| Research Proposal | 1/3 |
-| Peer Memos | 1/3
+{{< tableopen >}}
+ {{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DISTRIBUTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Memos
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Peer Memos
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
